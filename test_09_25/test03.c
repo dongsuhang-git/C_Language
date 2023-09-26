@@ -20,7 +20,7 @@ int main() {
 	printf("%d\n", sum);
 
  
-	//typedef  给数据类型起别名
+	//typedef  给数据类型起别名aaa
 
 
 	return 0;
